@@ -10,3 +10,6 @@ p, li{
 		color: #9e0c3d;
 		font-size: 30px;
 }
+img {
+transform: rotate(90deg);
+}
